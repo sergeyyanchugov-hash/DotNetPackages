@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пакеты .NET</string>
+    <string name="nav_title_list">Пакеты .NET</string>
+    <string name="nav_title_detail">Детали пакета</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_home">На главную</string>
+    <string name="btn_return_main">Вернуться на главный экран</string>
+    <string name="label_available_versions">Доступные версии</string>
+    <string name="label_dependencies">Зависимости</string>
+    <string name="error_prefix">Ошибка: %s</string>
+    <string name="error_package_not_found">Пакет не найден</string>
+</resources>

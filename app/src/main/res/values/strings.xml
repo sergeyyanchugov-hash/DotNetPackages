@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DotNet Packages</string>
+    <string name="nav_title_list">.NET Packages</string>
+    <string name="nav_title_detail">Package Details</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_return_main">Return to Main Screen</string>
+    <string name="label_available_versions">Available Versions</string>
+    <string name="label_dependencies">Dependencies</string>
+    <string name="error_prefix">Error: %s</string>
+    <string name="error_package_not_found">Package not found</string>
+</resources>
